@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.class
+
+# Ignore backup/system files
+*.log
+*.tmp
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
